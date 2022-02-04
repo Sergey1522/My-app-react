@@ -1,0 +1,29 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    gap: 10px;
+}
+.dialog {
+    display: grid;
+    row-gap: 15px;
+    text-align: center;
+    padding: 10px
+}
+.dialog__name {
+    margin-top: 10px;
+}
+.dialog a {
+    padding: 5px 10px;
+    border: 1px solid #fff;
+    border-radius: 16px;
+    background-color: #fff;
+    text-decoration: none;
+    margin: 10px;
+
+}
+.dialog__item {
+    background-color: rgb(186, 181, 192);
+}
+.messages {
+    background-color: rgb(186, 181, 192);
+}

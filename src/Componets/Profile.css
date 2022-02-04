@@ -1,0 +1,9 @@
+.profile {
+ background-color: #ccc;
+}
+.mypost {
+    display: flex;
+    padding:  15px;
+    gap: 10px;
+
+}
